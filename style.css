@@ -53,6 +53,7 @@ body{
     color: white;
     text-decoration: none;
 }
-.img-fluid{
-    margin-left: relative;
+.bottom-img{
+    width: 100%;
 }
+    
