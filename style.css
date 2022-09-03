@@ -56,4 +56,18 @@ body{
 .bottom-img{
     width: 100%;
 }
-    
+#services{
+    padding: 80px 0;
+}
+.serice-img{
+    width: 100px;
+    margin-top: 20px;
+}
+.services{
+    padding: 20px;
+}
+.services h4{
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
