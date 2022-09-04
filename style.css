@@ -98,3 +98,8 @@ body{
     border-radius: 20px;
     background-image: linear-gradient(to right, #a517ba,#5f1782);
 }
+#about-us{
+    background: #f8f9fa;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
