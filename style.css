@@ -92,3 +92,9 @@ body{
     display: block;
     transform: translateY(10px);
 }
+#services .btn-primary{
+    box-shadow: none;
+    padding: 8px 25px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+}
