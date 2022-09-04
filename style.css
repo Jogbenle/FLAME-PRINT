@@ -81,3 +81,14 @@ body{
     display: block;
     transform: translateY(63px);
 }
+.title::after{
+    content: '';
+    background: #7b1798;
+    height: 10px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    display: block;
+    transform: translateY(10px);
+}
