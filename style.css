@@ -148,3 +148,10 @@ body{
 .social-icons a:hover img{
     transform: translateY(-10px)
 }
+#footer{
+     background-image: linear-gradient(to right, #a517ba,#5f1782);  
+    color: white;
+}
+.footer-img{
+    width: 100%;
+}
