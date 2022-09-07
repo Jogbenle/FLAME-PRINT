@@ -132,3 +132,7 @@ body{
     display: inline-block;
     font-size: 12px;
 }
+#social-media{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
