@@ -141,3 +141,10 @@ body{
     font-weight: 600;
     margin-bottom: 30px;
 }
+.social-icons img{
+    width: 60px;
+    transition: 0.5s;
+}
+.social-icons a:hover img{
+    transform: translateY(-10px)
+}
