@@ -108,3 +108,9 @@ body{
     font-weight: 600;
     margin-top: 8%;
 }
+#about-us ul li{
+    margin: 10px 0;
+}
+#about-us ul{
+    margin-left: 20px;
+}
