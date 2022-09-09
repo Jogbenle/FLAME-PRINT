@@ -172,3 +172,10 @@ body{
     border-radius: 2px;
     background-image: linear-gradient(to right, #a517ba,#5f1782); 
 }
+.footer-box .form-control{
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
